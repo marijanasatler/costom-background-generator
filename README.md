@@ -1,1 +1,1 @@
-# costom-background-generator
+# custom-background-generator
